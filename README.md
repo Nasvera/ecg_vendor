@@ -1,1 +1,1 @@
-# ecg_vendor
+# ecg_vendor is a  mobile application which allows users to search/ get direction  for ECG vendors close to them based on location  Users of the application will be able to  read reviews without much effort like  login, asking friends, searching the Internet or tasting out them physically. Besides, users can also view working hours of each vendor.
